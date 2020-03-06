@@ -1,0 +1,12 @@
+sch_basic.c:49:6:sch_default_callback	0	static
+sch_basic.c:66:6:sch_power_up	20	static
+sch_basic.c:96:6:sch_init	0	static
+sch_basic.c:107:9:sch_test	0	static
+sch_basic.c:121:6:sch_loop	24	static,ignoring_inline_asm
+sch_basic.c:172:6:sch_remove_timeout	8	static
+sch_basic.c:214:6:sch_correct_time_shift	0	static
+sch_basic.c:276:9:sch_add_loop	8	static
+sch_basic.c:304:6:sch_init_timeout_list	0	static
+sch_basic.c:314:14:get_free_timeout	8	static
+sch_basic.c:226:9:sch_create_timeout	32	static
+sch_basic.c:333:6:print_timeouts	24	static
